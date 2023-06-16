@@ -2,7 +2,7 @@
   <h1>🥉 2022 AI Applications 학생 경연대회<br><br>
   👁‍🗨 시각지능을 이용한 보행로 혼잡도 해결 서비스 </h1>
 </div>
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/92446135-2adc-4732-92fa-5fb9f62f8e03"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/d9490cb6-42d9-41a0-82d8-2782a9af7a76"></h3>
 <h3>📅 진행기간 : 2022.10.31 ~ 2022.11.03</h3>
 
 ### 👨‍👦‍👦 팀원소개
@@ -17,7 +17,7 @@
 </tbody>
 </table>
 <br>
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/d3dffd9f-1c0a-4837-8a1d-c8cf0b942a41"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/5354773c-e93a-4c02-85a0-f61f4ff1fa88"></h3>
 
 # 🔊 프로젝트 개요
 ## 1) 코로나19 이후 일상생활 변화
@@ -55,13 +55,13 @@
 <br><br> 
 
 # 🔎 다른 기술들과의 차이점
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/fafa6f11-2e03-49a8-837b-f481a549e0f7"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/6578d959-3cce-42bf-8147-8bb79f505b76"></h3>
 
 * 'WalkFREE'어플은 모든 조건을 만족
 <br><br> 
 
 # 🔎 'WalkFREE' 구현 모습
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/552e4c32-3a45-4a47-a803-0aef521f97b3"></h3><br>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/bd4a43df-09b7-4e29-883c-fb0dcb84e63e"></h3><br>
 
 |모델 구현|기능|
 |:------:|------|
@@ -87,7 +87,7 @@
 <br>
 
 # 📈 데이터 분석 과정
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/524b57c0-58bc-4d01-a76a-3571edcf2cc1"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/1b5e2cdd-074a-4960-8a32-93ebaae879e8"></h3>
 
 <br>
 
@@ -135,11 +135,11 @@
 <br>
 
 # 🤝 핵심 파트너십
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/724fa416-ec64-404e-a732-34536352a9b6"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/34ad7195-0c1a-4c28-89f2-3325b81e9b25"></h3>
 <br>
 
 # 📢 마케팅
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/626a7348-f161-4ab6-8194-3cc3cadc03d4"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/6c1f54b2-24ae-4d6e-8287-17247c0f6a4a"></h3>
 
 
 
