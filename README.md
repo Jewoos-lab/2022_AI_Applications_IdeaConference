@@ -17,7 +17,8 @@
 </tbody>
 </table>
 <br>
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/5354773c-e93a-4c02-85a0-f61f4ff1fa88"></h3>
+<h3 align="center"><img width="987" alt="image" src="https://github.com/Jewoos-lab/2022_AI_Applications_IdeaConference/assets/86662870/45fdd9ac-2570-49ef-a2b8-1c54e76c9d34">
+</h3>
 
 # 🔊 프로젝트 개요
 ## 1) 코로나19 이후 일상생활 변화
